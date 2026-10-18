@@ -17,7 +17,7 @@ main {
 }
 
 .site-header {
-  display: flexbox;
+  display: grid;
   align-items: center;
   justify-content: space-between;
   padding-block: 1rem;
